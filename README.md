@@ -1,1 +1,3 @@
-![Bunyguy dancing in a circle](./bunnyguy.gif)
+<p align="center">
+  <img width="460" height="300" src="./bunnyguy.gif">
+</p>
